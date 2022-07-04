@@ -1,0 +1,11 @@
+print("Hello M.6/11")
+print("My name is Ekanan Hasun")
+print("number 7")
+print("อายุ","17","ปี")
+print("งานอดิเรก","เล่นบาสเก็ตบอล")
+print("สัตว์ที่ชอบ","แมว")
+print("ศิลปินที่ชอบ","Mafumafu")
+print("อาหารที่ชอบ","ผัดกระเพราหมูสับ")
+print("เกมที่ชอบเล่น","genshin impact","และ","Valorant")
+print("แนวการ์ตูนที่ชอบ","fantasy")
+#Ekanan Hasun M.6/11 No.7
